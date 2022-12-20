@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/xxayt/count.svg) visitor.
-
-
 # About My Github
 
 <div align="left">
