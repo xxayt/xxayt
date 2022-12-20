@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/xxayt/count.svg) visitor.
+
+
+# About My Github
+
+<div align="left">
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxayt&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api?username=xxayt&show_icons=true&theme=cobalt" align="center" />
+</div>
